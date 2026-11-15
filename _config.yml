@@ -1,0 +1,5 @@
+title: Fatherhood
+description: Stories and lessons from being a dad.
+theme: jekyll-theme-minimal
+url: https://fatherhood.fabiopereira.name
+permalink: /:year/:month/:day/:title/
