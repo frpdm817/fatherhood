@@ -16,9 +16,9 @@ Front matter needs only `title`; `lang`, `layout` and the permalink come from `d
 
 ```yaml
 ---
-title: "Hello, Fatherhood"
-ref: hello
-description: The first post on the Fatherhood blog.
+title: "…and I thought I was ready"
+ref: thought-i-was-ready
+description: We planned everything for our son's arrival. Then I held him for the first time.
 ---
 ```
 
