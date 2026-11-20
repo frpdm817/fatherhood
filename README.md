@@ -22,6 +22,17 @@ description: The first post on the Fatherhood blog.
 ---
 ```
 
+### Photo and link previews
+
+Every page gets Open Graph and Twitter/X tags (from `_includes/seo.html`), so shared links show a title and description. To add a photo, put it in `assets/images/` and set it in the front matter of each translation:
+
+```yaml
+image: /assets/images/my-post.jpg   # or a full URL
+image_alt: What the photo shows
+```
+
+The photo appears at the top of the post and becomes the preview image. A wide 1200×630 image fits previews best.
+
 ### Translations: `ref`
 
 Give every translation of a post the same `ref` value. The language switcher on a post links to the translation with the same `ref`; if a language has none, it links to that language's home page. Posts without `ref` have no translations.

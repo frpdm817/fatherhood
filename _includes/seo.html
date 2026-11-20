@@ -17,3 +17,41 @@
     {%- endif -%}
   {%- endif -%}
 {%- endfor %}
+{%- comment -%}
+  Link previews (Open Graph + Twitter/X). A post can set `image:` (a path such as
+  /assets/images/x.jpg, or a full URL) and `image_alt:` in its front matter.
+{%- endcomment -%}
+{%- if page.layout == "post" -%}
+  {%- assign og_type = "article" -%}
+  {%- assign og_title = page.title -%}
+{%- else -%}
+  {%- assign og_type = "website" -%}
+  {%- assign og_title = page_title -%}
+{%- endif %}
+  <meta property="og:type" content="{{ og_type }}">
+  <meta property="og:site_name" content="{{ t.title | escape }}">
+  <meta property="og:title" content="{{ og_title | escape }}">
+  <meta property="og:description" content="{{ page_description | escape }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:locale" content="{{ t.og_locale }}">
+{%- if og_type == "article" %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+{%- endif -%}
+{%- if page.image -%}
+  {%- if page.image contains "://" -%}
+    {%- assign image_url = page.image -%}
+  {%- else -%}
+    {%- assign image_url = page.image | prepend: "/" | replace: "//", "/" | prepend: site.url -%}
+  {%- endif %}
+  <meta property="og:image" content="{{ image_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ image_url }}">
+  {%- if page.image_alt %}
+  <meta property="og:image:alt" content="{{ page.image_alt | escape }}">
+  <meta name="twitter:image:alt" content="{{ page.image_alt | escape }}">
+  {%- endif -%}
+{%- else %}
+  <meta name="twitter:card" content="summary">
+{%- endif %}
+  <meta name="twitter:title" content="{{ og_title | escape }}">
+  <meta name="twitter:description" content="{{ page_description | escape }}">

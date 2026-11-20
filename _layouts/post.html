@@ -7,6 +7,9 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <time datetime="{{ page.date | date_to_xmlschema }}">{% include date.html date=page.date lang=page.lang %}</time>
   </header>
+  {%- if page.image %}
+  <img class="post-image" src="{% if page.image contains '://' %}{{ page.image }}{% else %}{{ page.image | prepend: '/' | replace: '//', '/' | relative_url }}{% endif %}" alt="{{ page.image_alt | escape }}">
+  {%- endif %}
   <div class="prose">
     {{ content }}
   </div>

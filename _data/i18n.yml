@@ -4,6 +4,7 @@ languages: [en, es, pt]
 
 en:
   name: English
+  og_locale: en_US   # og:locale for link previews
   home: /
   home_link: /?lang=en   # links to the English home from other pages; plain / would trigger the cookie redirect
   title: Fatherhood
@@ -18,6 +19,7 @@ en:
 
 es:
   name: Español
+  og_locale: es_ES   # og:locale for link previews
   home: /es/
   home_link: /es/
   title: Paternidad
@@ -32,6 +34,7 @@ es:
 
 pt:
   name: Português
+  og_locale: pt_BR   # og:locale for link previews
   home: /pt/
   home_link: /pt/
   title: Paternidade
