@@ -1,10 +1,12 @@
 ---
 title: "…e eu achava que estava pronto"
 ref: thought-i-was-ready
-description: Planejamos tudo para a chegada do nosso filho. Depois eu o peguei no colo pela primeira vez.
+description: Planejamos tudo para a chegada do nosso filho. Depois eu o peguei no colo pela primeira vez. Para todo pai que achava que estava pronto.
 ---
 
 Eu estava com ele no colo, chorando, e um único pensamento não saía da minha cabeça: *eu tenho que manter essa pessoinha viva.*
+
+Se você vai ser pai, talvez esse momento ainda esteja por vir. Se você já é, provavelmente sabe exatamente do que estou falando. De qualquer forma, este texto é para você.
 
 Nove meses antes, a gente tinha planejado tudo.
 
@@ -14,9 +16,9 @@ Fiquei sabendo no meio da noite. A Nehrini me disse que precisava fazer um teste
 
 ## Nos preparando
 
-Alguns dias depois caiu a ficha: a gente precisava se preparar.
+Alguns dias depois caiu a ficha: a gente precisava se preparar. Talvez você esteja nessa fase agora: as listas, as compras, os cursos tarde da noite.
 
-Moramos na Irlanda. Nossos pais e o resto da família estão longe, em outros países. Temos amigos, mas naturalmente não dá para pedir a amigos que venham em casa, cozinhem, cuidem das tarefas e olhem o bebê. Então tínhamos que pensar em como substituir aquela ajuda da família que a maioria das pessoas tem nesse momento.
+Moramos na Irlanda. Nossos pais e o resto da família estão longe, em outros países. Temos amigos, mas naturalmente não dá para pedir a amigos que venham em casa, cozinhem, cuidem das tarefas e olhem o bebê. Se você também está formando uma família longe de casa, sabe o quanto isso muda as coisas. Tínhamos que pensar em como substituir aquela ajuda da família que a maioria das pessoas tem nesse momento.
 
 Vimos duas opções. Podíamos contratar enfermeiras ou parteiras para vir em casa e cuidar do bebê por algumas horas. Ou podíamos automatizar as tarefas e comprar máquinas para fazer o trabalho que, de outro jeito, ficaria com a gente.
 
@@ -28,7 +30,7 @@ Olhando para trás hoje, foi uma boa decisão: eles nos ajudaram demais no dia a
 
 Alguns colegas de trabalho tinham tido bebês havia pouco tempo, então naturalmente comecei a pedir dicas. Me contem as coisas boas, as ruins, as maravilhosas e as horrorosas. Anotei tudo.
 
-E assistimos a todos os cursos e todos os vídeos sobre gravidez, sobre como cuidar do bebê, sobre o primeiro mês. Informação nunca faltou. Estava espalhada, mas nunca faltou. Só que era avassalador: muito mais informação do que a gente realmente precisa, e boa parte pensada para realidades que não eram a nossa, para países onde as pessoas vivem de outro jeito, com leis diferentes e formas diferentes de fazer as coisas. Mesmo assim, fizemos tudo.
+E assistimos a todos os cursos e todos os vídeos sobre gravidez, sobre como cuidar do bebê, sobre o primeiro mês. Informação nunca faltou. Estava espalhada, mas nunca faltou. Só que era avassalador: muito mais informação do que a gente realmente precisa, e boa parte pensada para realidades que não eram a nossa, para países onde as pessoas vivem de outro jeito, com leis diferentes e formas diferentes de fazer as coisas. Se você já fechou um vídeo sobre bebês mais confuso do que quando abriu, não é o único. Mesmo assim, fizemos tudo.
 
 …e eu achava que estava pronto.
 {: .highlight}
@@ -44,6 +46,10 @@ E no momento em que o peguei no colo percebi que não estava. Agora eu sou respo
 Nenhuma lista, nenhum aparelho e nenhum freezer cheio de comida te prepara para essa parte.
 {: .highlight}
 
+## Se esse é você agora
+
 Se você está prestes a ser pai e acha que está pronto: não está. Ninguém está. E tudo bem.
 
-É aqui que a história de verdade começa. Nas próximas publicações, vou contar os altos e baixos de me tornar pai, a partir do primeiro dia.
+Se você já está com o seu pequeno no colo e se sente feliz e sobrecarregado ao mesmo tempo: você não está fazendo nada errado, e não está sozinho. Eu estive exatamente aí.
+
+É aqui que a história de verdade começa. Nas próximas publicações, vou contar os altos e baixos de me tornar pai, a partir do primeiro dia: as partes boas e as difíceis. Vem comigo.

@@ -1,10 +1,12 @@
 ---
 title: "…and I thought I was ready"
 ref: thought-i-was-ready
-description: We planned everything for our son's arrival. Then I held him for the first time.
+description: We planned everything for our son's arrival. Then I held him for the first time. For every dad who thought he was ready.
 ---
 
 I was holding him, crying, and one thought kept looping: *I have to keep this little person alive.*
+
+If you're a dad-to-be, maybe that moment is still ahead of you. If you're a new dad, you probably know exactly what I mean. Either way, this one is for you.
 
 Nine months earlier, we had planned everything.
 
@@ -14,9 +16,9 @@ I found out in the middle of the night. Nehrini told me she needed to take a hom
 
 ## Getting ready
 
-A few days later it hit me: we had to get ready.
+A few days later it hit me: we had to get ready. Maybe you're in that phase right now: the lists, the shopping, the courses late at night.
 
-We live in Ireland. Our parents and the rest of our family are far away, in other countries. We have friends, but naturally you can't ask friends to come over, cook for you, do your chores and look after the baby. So we had to figure out how to replace the family help most people get at this point.
+We live in Ireland. Our parents and the rest of our family are far away, in other countries. We have friends, but naturally you can't ask friends to come over, cook for you, do your chores and look after the baby. If you're also starting a family far from home, you know how much that changes things. We had to figure out how to replace the family help most people get at this point.
 
 We saw two options. We could hire nurses or midwives to come to the house and look after the baby for a few hours. Or we could automate our chores and buy machines to take over the work we'd otherwise do ourselves.
 
@@ -28,7 +30,7 @@ Looking back today, it was a good decision: they helped us enormously day to day
 
 A few of my colleagues had recently had babies, so naturally I started asking them for tips. Give me the good things, the bad things, the wonderful things and the horrible things. I took notes on all of it.
 
-And we watched every course and every video about pregnancy, about caring for a baby, about the first month. We never lacked information. It was scattered, but it was never missing. It was overwhelming, though: far more than you actually need, and a lot of it written for realities that weren't ours, for countries where people live differently, with different laws and different ways of doing things. We did all of it anyway.
+And we watched every course and every video about pregnancy, about caring for a baby, about the first month. We never lacked information. It was scattered, but it was never missing. It was overwhelming, though: far more than you actually need, and a lot of it written for realities that weren't ours, for countries where people live differently, with different laws and different ways of doing things. If you've ever closed a parenting video more confused than when you opened it, you're not the only one. We did all of it anyway.
 
 …and I thought I was ready.
 {: .highlight}
@@ -44,6 +46,10 @@ It's such an overwhelming moment. You feel happy holding him. But you also feel 
 No checklist, no gadget and no freezer full of food prepares you for that part.
 {: .highlight}
 
+## If that's you right now
+
 If you're about to become a dad and you think you're ready: you're not. Nobody is. And that's okay.
 
-This is where the real story starts. In the coming posts I'll share the ups and downs of becoming a dad, starting from the very first day.
+If you're already holding your little one and feel happy and overwhelmed at the same time: you're not doing it wrong, and you're not alone. I've been exactly there.
+
+This is where the real story starts. In the coming posts I'll share the ups and downs of becoming a dad, starting from the very first day: the good parts and the hard ones. Come along.
