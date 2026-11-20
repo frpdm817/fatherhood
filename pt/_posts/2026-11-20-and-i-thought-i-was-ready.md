@@ -31,6 +31,7 @@ Alguns colegas de trabalho tinham tido bebês havia pouco tempo, então naturalm
 E assistimos a todos os cursos e todos os vídeos sobre gravidez, sobre como cuidar do bebê, sobre o primeiro mês. Informação nunca faltou. Estava espalhada, mas nunca faltou. Só que era avassalador: muito mais informação do que a gente realmente precisa, e boa parte pensada para realidades que não eram a nossa, para países onde as pessoas vivem de outro jeito, com leis diferentes e formas diferentes de fazer as coisas. Mesmo assim, fizemos tudo.
 
 …e eu achava que estava pronto.
+{: .highlight}
 
 ## E ele chegou
 
@@ -41,6 +42,7 @@ E no momento em que o peguei no colo percebi que não estava. Agora eu sou respo
 É um momento avassalador. Você se sente feliz com ele nos braços. Mas também sente a enorme, enorme responsabilidade de cuidar de alguém que não consegue falar, que não consegue dizer o que sente e cuja única forma de dizer qualquer coisa é chorar. E você precisa entender isso, aceitar essa nova realidade e assumir essa nova tarefa.
 
 Nenhuma lista, nenhum aparelho e nenhum freezer cheio de comida te prepara para essa parte.
+{: .highlight}
 
 Se você está prestes a ser pai e acha que está pronto: não está. Ninguém está. E tudo bem.
 
