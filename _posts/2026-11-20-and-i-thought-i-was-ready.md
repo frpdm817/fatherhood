@@ -31,6 +31,7 @@ A few of my colleagues had recently had babies, so naturally I started asking th
 And we watched every course and every video about pregnancy, about caring for a baby, about the first month. We never lacked information. It was scattered, but it was never missing. It was overwhelming, though: far more than you actually need, and a lot of it written for realities that weren't ours, for countries where people live differently, with different laws and different ways of doing things. We did all of it anyway.
 
 …and I thought I was ready.
+{: .highlight}
 
 ## Then he arrived
 
@@ -41,6 +42,7 @@ And the moment I held him, I realised I really wasn't. I'm responsible now. Resp
 It's such an overwhelming moment. You feel happy holding him. But you also feel the enormous, enormous responsibility of caring for someone who can't talk, who can't tell you what he feels, and whose only way of telling you anything is to cry. And you have to understand that, accept that new reality, and take on that new job.
 
 No checklist, no gadget and no freezer full of food prepares you for that part.
+{: .highlight}
 
 If you're about to become a dad and you think you're ready: you're not. Nobody is. And that's okay.
 

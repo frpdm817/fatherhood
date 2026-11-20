@@ -31,6 +31,7 @@ Algunos compañeros de trabajo habían tenido bebés hacía poco, así que natur
 Y vimos todos los cursos y todos los videos sobre el embarazo, sobre cómo cuidar al bebé, sobre el primer mes. Información nunca nos faltó. Estaba dispersa, pero nunca nos faltó. Eso sí, era abrumador: muchísima más información de la que uno realmente necesita, y mucha pensada para realidades que no son las nuestras, para países donde no se vive igual, con legislaciones diferentes y formas diferentes de hacer las cosas. Aun así, lo hicimos todo.
 
 …y yo que pensaba que estaba listo.
+{: .highlight}
 
 ## Y llegó él
 
@@ -41,6 +42,7 @@ Y en el momento en que lo cargué me di cuenta de que realmente no lo estaba. Ah
 Es un momento tan abrumador. Te sientes feliz con él en brazos. Pero también sientes la enorme, enorme responsabilidad de cuidar a alguien que no es capaz de hablar, que no puede decirte qué siente y que lo único que puede hacer para decirte algo es llorar. Y tú tienes que entenderlo, aceptar esa nueva realidad y asumir ese nuevo encargo.
 
 Ninguna lista, ningún aparato y ningún congelador lleno de comida te prepara para esa parte.
+{: .highlight}
 
 Si estás a punto de ser papá y crees que estás listo: no lo estás. Nadie lo está. Y está bien.
 

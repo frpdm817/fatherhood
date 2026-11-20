@@ -176,6 +176,22 @@ a { color: var(--accent); }
   border-left: 3px solid var(--accent);
   color: var(--muted);
 }
+/* Key phrase box: in Markdown, put {: .highlight} on the line after a paragraph or blockquote. */
+.prose .highlight {
+  margin: 1.8em 0;
+  padding: 18px 22px;
+  border: 0;
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+  background: var(--surface);
+  background: color-mix(in srgb, var(--accent) 10%, var(--surface));
+  color: var(--text);
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.5;
+  font-style: normal;
+}
+.prose .highlight p { margin: 0; }
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 2.5em 0; }
 .prose table { display: block; max-width: 100%; overflow-x: auto; border-collapse: collapse; font-size: 15px; }
 .prose th, .prose td { padding: 6px 12px; border: 1px solid var(--line); text-align: left; }
